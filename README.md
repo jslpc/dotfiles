@@ -2,11 +2,9 @@ My barebones dotfiles. Work in progress.
 
 TODO:
 
-[ ] Add instalation script
-
-[ ] Create new `shell` folder for zshrc and oh-my-zsh config
-
-[ ] Add Atom packages
+- [ ] Add instalation script
+- [ ] Create new `shell` folder for zshrc and oh-my-zsh config
+- [ ] Add Atom packages
 
 ---
 # Installation
