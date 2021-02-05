@@ -15,6 +15,7 @@ export PATH="/Users/Jake/CLI/beets:$PATH"
 
 # Other variables
 export NVM_DIR=~/.nvm
+export BEETSDIR=~/.dotfiles/misc/beets
 
 # Type 'fuck' to fix accidental typo
 eval $(thefuck --alias)
