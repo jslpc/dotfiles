@@ -1,5 +1,5 @@
 directory: /Volumes/Samsung T5/Music/Music Library/
-library: /Users/Jake/.config/beets/library.db
+library: /Users/Jake/.dotfiles/misc/beets/library.db
 pluginpath: /Users/Jake/CLI/beets/beetsplug
 import:
     move: yes
@@ -68,11 +68,11 @@ importadded:
 
 lastgenre:
     auto: yes
-    canonical: /Users/Jake/Music/Beets/LastGenre/genres-tree.yaml
+    canonical: /Users/Jake/.dotfiles/misc/beets/lastgenre/genres-tree.yaml
     count: 3
     fallback: ''
     force: yes
     min_weight: 68
     source: album
     separator: ', '
-    whitelist: /Users/Jake/Music/Beets/LastGenre/genres.txt
+    whitelist: /Users/Jake/.dotfiles/misc/beets/lastgenre/genres.txt
