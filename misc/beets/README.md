@@ -20,9 +20,9 @@ My directory structure is setup like so:
 │   └── The Hamilton Mixtape (2016) [FLAC 16]
 ├── #
 │   ├── 2Pac
-│   │   ├── All Eyez on Me (1996) [FLAC 16]
+│   │   └── All Eyez on Me (1996) [FLAC 16]
 │   ├── 50 Cent
-│   │   ├── Get Rich or Die Tryin (2003) [FLAC 16]
+│   │   └── Get Rich or Die Tryin (2003) [FLAC 16]
 ├── A
 ├── B
 ├── C
@@ -52,7 +52,7 @@ My directory structure is setup like so:
 │   │   └── Well Worn (2016) [FLAC 16]
 ├── J
 ...
-├── Z
+└── Z
 ```
 
 ### Notes
